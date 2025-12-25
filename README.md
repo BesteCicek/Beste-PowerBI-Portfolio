@@ -1,2 +1,9 @@
-# Beste-PowerBI-Portfolio
-Power BI dashboards demonstrating data analysis skills using SQL (PostgreSQL) and Excel.
+# Power BI Portfolio
+
+## Sales Return Analysis Dashboard
+Tools: SQL (PostgreSQL), Excel, Power BI
+Description: Extracted and cleaned sales return data and created interactive dashboards.
+
+## Sales & Profitability Analysis Dashboard
+Tools: SQL (PostgreSQL), Excel, Power BI
+Description: Collected and processed sales and profitability data and created interactive dashboards.
