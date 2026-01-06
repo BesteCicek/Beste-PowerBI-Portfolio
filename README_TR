@@ -1,0 +1,68 @@
+📊 BESTE – POWER BI PORTFÖYÜ
+Bu repository, satış performansı, kârlılık ve iade analizi odaklı veri analizi projelerimi içeren portföyümü sunmaktadır.
+Projeler; SQL, Excel ve Power BI kullanılarak uçtan uca veri analizi sürecini ve iş odaklı içgörü üretimini göstermektedir.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+📌 Portföy Özeti
+Bu portföy, tek bir dashboard PDF’i içinde birleştirilmiş iki analitik projeden oluşmaktadır:
+•	Satış İade Analizi
+•	Satış & Kârlılık Analizi
+Her iki proje de gerçek iş problemlerini yanıtlamak ve veri odaklı karar alma süreçlerini desteklemek amacıyla hazırlanmıştır.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+🛠 Kullanılan Araçlar & Teknolojiler
+•	SQL: PostgreSQL
+•	Veri Hazırlama: Excel
+•	Veri Görselleştirme: Power BI
+•	Versiyon Kontrol: GitHub
+
+----------------------------------------------------------------------------------------------------------------------------------------------- 
+📁 Projeler
+1 Satış İade Analizi Dashboard’u
+Amaç
+İade edilen siparişleri analiz ederek, yüksek iade oranına sahip kategori ve desenleri belirlemek.
+Yapılan Çalışmalar
+•	Satış ve iade verilerinin SQL ile çıkarılması ve dönüştürülmesi
+•	Excel kullanılarak veri temizleme ve hazırlık
+•	Power BI ile iade oranlarını ve trendleri gösteren etkileşimli dashboard’lar oluşturulması
+Temel İçgörüler
+•	Bazı ürün kategorilerinde iade oranlarının sürekli olarak yüksek olduğu gözlemlenmiştir
+•	İade edilen siparişlerin toplam kârlılık üzerinde belirgin bir olumsuz etkisi vardır
+•	İade davranışları kategori ve bölgelere göre farklılık göstermektedir
+
+----------------------------------------------------------------------------------------------------------------------------------------------- 
+2️ Satış & Kârlılık Analizi Dashboard’u
+Amaç
+Satış performansını ve kârlılığı analiz ederek gelir yaratan ve düşük marjlı alanları tespit etmek.
+Yapılan Çalışmalar
+•	SQL kullanılarak satış ve kârlılık verilerinin modellenmesi
+•	Gelir, kâr ve kâr marjı trendlerinin analiz edilmesi
+•	Performans takibi için Power BI dashboard’larının tasarlanması
+Temel İçgörüler
+•	Az sayıda ürün kategorisi toplam kârın büyük bir kısmını oluşturmaktadır
+•	İndirimler, düşük marjlı ürünlerde kârlılığı olumsuz etkilemektedir
+•	Kârlılık, ürün kategorilerine göre önemli ölçüde değişkenlik göstermektedir
+
+----------------------------------------------------------------------------------------------------------------------------------------------- 
+🧠 Sergilenen Yetkinlikler
+•	SQL sorgulama ve veri dönüştürme
+•	Veri temizleme ve ön işleme
+•	KPI tanımlama ve dashboard tasarımı
+•	İş odaklı veri analizi
+•	Veri görselleştirme en iyi uygulamaları
+
+----------------------------------------------------------------------------------------------------------------------------------------------- 
+📎 Portföy Çıktısı
+📄 Dashboard Portföyü (PDF)
+Sales_Analytics_Dashboard_Portfolio.pdf
+PDF dosyası, her iki projeye ait dashboard görsellerini, temel metrikleri ve özet içgörüleri içermektedir.
+
+----------------------------------------------------------------------------------------------------------------------------------------------- 
+📬 İletişim
+Soru, geri bildirim veya iş birliği için:
+🔗 LinkedIn: www.linkedin.com/in/bstcck
+
+ -----------------------------------------------------------------------------------------------------------------------------------------------
+⭐ Portföy Hakkında
+Bu portföy, yalnızca görsel çıktılar üretmekten ziyade, teknik beceriler ile iş bakış açısını birleştirerek net ve aksiyon alınabilir içgörüler sunmayı amaçlayan pratik veri analizi projelerine odaklanmaktadır.
+
